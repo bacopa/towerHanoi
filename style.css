@@ -1,0 +1,29 @@
+#aaa {
+	background-color: #669933;
+	width: 25px;
+	height: 20px;	
+}
+
+#bbb {
+	background-color: #AA5439;
+	width: 50px;
+	height: 20px;
+}
+
+#ccc {
+	background-color: #28536C;
+	width: 75px;
+	height: 20px;
+}
+
+
+.tower {
+	display: inline-block;		
+	border: solid 2px #87BC5E;
+	width: 110px;
+	height: 150px;
+}
+
+.selected {
+	border: dashed 3px black;
+}
